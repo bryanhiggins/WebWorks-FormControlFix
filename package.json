@@ -1,0 +1,11 @@
+{
+    "name": "formcontrolfix",
+    "cordova_name": "Form Control Fix",
+    "description": "Form Control Fix",
+    "version": "1.0.1",
+    "platforms": [
+        "blackberry10"
+    ],
+    "author": "Bryan Higgins",
+    "license": "Apache-2.0"
+}
